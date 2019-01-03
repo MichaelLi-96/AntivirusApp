@@ -1,4 +1,4 @@
-# AntivirusApp
+# Antivirus App
 SJSU | SE 174 </br>
 Michael Li </br>
 
